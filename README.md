@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **AWS, Redis, GraphQL etc**
 
-- 👨‍💻 All of my projects are available at [https://hemanshu-profolio-website.web.app](https://hemanshu-profolio-website.web.app)
+- 👨‍💻 All of my projects are available at <br> [https://hemanshu-profolio-website.web.app](https://hemanshu-profolio-website.web.app)
 
-- 📝 I regularly write Blogs / Articles on [https://hemanshu-profolio-website.web.app/blogs](https://hemanshu-profolio-website.web.app/blogs)
-
-
+- 📝 I regularly write Blogs / Articles on <br>  [https://hemanshu-profolio-website.web.app/blogs](https://hemanshu-profolio-website.web.app/blogs)
 
 - 📫 How to reach me **hemanshu.waghmare@gmail.com**
 
